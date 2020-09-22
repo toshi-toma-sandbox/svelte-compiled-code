@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "file": "bundle.css",
+  "sources": [
+    "App.svelte"
+  ],
+  "sourcesContent": [
+    "<script>\n\tlet name = \"World!!\";\n</script>\n\n<style>\n\th1 {\n\t\tcolor: tomato;\n\t}\n</style>\n\n<main>\n\t<h1>Hello {name}!</h1>\n</main>\n"
+  ],
+  "names": [],
+  "mappings": "AAKC,EAAE,eAAC,CAAC,AACH,KAAK,CAAE,MAAM,AACd,CAAC"
+}
